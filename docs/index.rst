@@ -4,7 +4,7 @@ Honda GPS Support Services – Navigation Made Simple
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: Login.jpg
+.. image:: supportbutton.jpg
    :alt: Honda GPS Customer Service
    :width: 350px
    :align: center
